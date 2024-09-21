@@ -28,7 +28,7 @@ content="Exemplo de documento html com principais marcações da tag body.">
     para mais informações.</p>
   <p>Envie um email para <a href="Cristanildo.contatoexemplo.com">
      nosso contato</a>.</p>
-  <p> <a href="#secao1>Ir para a Seção 1</a> nesta mesma página.</p>
+  <p> <a href="#secao1">Ir para a Seção 1</a> nesta mesma página.</p>
   <p>Este é um <i>testo em itálico</!>, <b>negrito</b>, <u>sublinhado</u>,
     <em>com enfâse</em>, e <stong>importante</strong>.</p>
   <blockquote>

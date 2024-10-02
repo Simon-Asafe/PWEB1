@@ -26,7 +26,7 @@ content="Exemplo de documento html com principais marcações da tag body.">
   </ol>
   <p>Visite o <a href="https://www.exemplo.com">nosso site</a>
     para mais informações.</p>
-  <p>Envie um email para <a href="mailto.contatoexemplo.com">
+  <p>Envie um email para <a href="mailto:contatoexemplo.com">
      nosso contato</a>.</p>
   <p> <a href="#secao1">Ir para a Seção 1</a> nesta mesma página.</p>
   <p>Este é um <i>testo em itálico</!>, <b>negrito</b>, <u>sublinhado</u>,
